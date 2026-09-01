@@ -49,7 +49,7 @@ Right now, I am actively building projects and solidifying my skills in:
 
 ###  GitHub Stats
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luisgarbin&layout=compact&hide_border=true&bg_color=0d1117&title_color=2e8b57&text_color=2e8b57&icon_color=2e8b57&border_color=2e8b57)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luisgarbin&layout=compact&hide_border=true&bg_color=00000000&title_color=1e90ff&text_color=1e90ff&icon_color=1e90ff&border_color=1e90ff)
 ---
 
 ###  Connect with Me
