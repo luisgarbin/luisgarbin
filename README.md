@@ -48,8 +48,9 @@ Right now, I am actively building projects and solidifying my skills in:
 ---
 
 ###  GitHub Stats
-
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=luisgarbin)](https://github.com/stats-organization/github-stats-extended)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgarbin&theme=matrix" alt="Most Used Languages" />
+</div>
 
 ---
 
