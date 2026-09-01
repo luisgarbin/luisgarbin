@@ -49,7 +49,7 @@ Right now, I am actively building projects and solidifying my skills in:
 
 ###  GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luisgarbinB&theme=matrix" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-git-master-rstacruz.vercel.app/api/top-langs/?username=luisgarbin&theme=matrix" alt="Most Used Languages" />
 </div>
 
 ---
