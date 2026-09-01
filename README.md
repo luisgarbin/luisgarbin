@@ -49,10 +49,7 @@ Right now, I am actively building projects and solidifying my skills in:
 
 ###  GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisgarbin&show_icons=true&theme=matrix" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgarbin&layout=compact&theme=matrix" alt="Top Languages" height="165" />
-</div>
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=luisgarbin)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
