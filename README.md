@@ -48,9 +48,8 @@ Right now, I am actively building projects and solidifying my skills in:
 ---
 
 ###  GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgarbin&theme=chartreuse-dark" alt="Most Used Languages" />
-</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisgarbin&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=00ff41)
 ---
 
 ###  Connect with Me
